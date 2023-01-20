@@ -1,4 +1,4 @@
-This folder contains the Python implementations we used for:
+This folder contains Python implementations of the following methods (that we used to obtain the results in the paper):
 - PRS (Parametric Random Subspace)
 - RaSE
 - Random forest
