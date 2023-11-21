@@ -8,6 +8,7 @@ Huynh-Thu, V. A. and Geurts, P.
 Machine Learning, 2023.
 ```
 https://link.springer.com/article/10.1007/s10994-023-06427-5
+
 https://arxiv.org/abs/2109.03099
 
 The [code](https://github.com/vahuynh/PRS/tree/master/code) folder contains our Python implementation of PRS (Parametric Random Subspace).
